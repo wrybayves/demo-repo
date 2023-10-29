@@ -1,0 +1,3 @@
+2023.10.29 10:54:58 INFO  Started: Metals version 1.1.0 in folders '/home/trace/workspace/demo-repo' for client Visual Studio Code 1.83.1.[0m
+2023.10.29 10:54:59 WARN  Build server is not auto-connectable.[0m
+2023.10.29 10:54:59 WARN  no build tool detected in workspace '/home/trace/workspace/demo-repo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
